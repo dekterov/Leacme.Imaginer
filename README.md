@@ -4,8 +4,8 @@
 
 This application features the ability to display image files on your mobile device.
 
-![index](https://user-images.githubusercontent.com/6654513/71702275-a890fe00-2d8b-11ea-8dbb-7560d04ba348.png)
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71702275-a890fe00-2d8b-11ea-8dbb-7560d04ba348.png)
 
 ## Application Compiling
 
